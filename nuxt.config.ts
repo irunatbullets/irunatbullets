@@ -9,6 +9,7 @@ export default defineNuxtConfig({
     '~/assets/css/main.css',
   ],
   app: {
+    baseURL: '/irunatbullets/',
     head: {
       title: 'irunatbullets',
       charset: 'utf-8',
