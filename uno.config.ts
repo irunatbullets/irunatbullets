@@ -2,7 +2,7 @@
 import {
   defineConfig, presetAttributify, presetIcons,
   presetTypography, presetWebFonts,
-  transformerVariantGroup
+  transformerVariantGroup, transformerDirectives
 } from 'unocss'
 
 import presetWind from '@unocss/preset-wind'
@@ -29,5 +29,6 @@ export default defineConfig({
   ],
   transformers: [
     transformerVariantGroup(),
+    transformerDirectives(),
   ],
 })
