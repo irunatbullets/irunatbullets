@@ -1,11 +1,15 @@
 // uno.config.ts
 import {
-  defineConfig, presetAttributify, presetIcons,
-  presetTypography, presetWebFonts,
-  transformerVariantGroup, transformerDirectives
-} from 'unocss'
+  defineConfig,
+  presetAttributify,
+  presetIcons,
+  presetTypography,
+  presetWebFonts,
+  transformerVariantGroup,
+  transformerDirectives,
+} from "unocss";
 
-import presetWind from '@unocss/preset-wind'
+import presetWind from "@unocss/preset-wind";
 
 export default defineConfig({
   shortcuts: [
@@ -14,7 +18,7 @@ export default defineConfig({
   theme: {
     colors: {
       // ...
-    }
+    },
   },
   presets: [
     presetWind(),
@@ -23,12 +27,9 @@ export default defineConfig({
     presetTypography(),
     presetWebFonts({
       fonts: {
-        Inter: 'Inter:400,500,600,700,800,900'
+        Inter: "Inter:400,500,600,700,800,900",
       },
     }),
   ],
-  transformers: [
-    transformerVariantGroup(),
-    transformerDirectives(),
-  ],
-})
+  transformers: [transformerVariantGroup(), transformerDirectives()],
+});
