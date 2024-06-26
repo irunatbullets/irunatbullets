@@ -1,8 +1,8 @@
-# Murray Nuttall
+## Murray Nuttall
 
 **Scrum Master, UX/UI Designer**
 
-## Contact Information
+### Contact Information
 
 - Address **27 Rue Principale, 31820 Pibrac**
 - Phone [**06 98 43 26 73**](tel:0698432673)
@@ -10,15 +10,15 @@
 
 ---
 
-## Professional Summary
+### Professional Summary
 
 Experienced in front-end development with a focus on component libraries and facilitating efficient team communication between designers and developers. Currently focusing on Scrum Master responsibilities and UX/UI design, helping teams build and deliver experiences that users love. Committed to continuous learning and team mentorship.
 
 ---
 
-## Experience
+### Experience
 
-### Citec, Toulouse
+#### Citec, Toulouse
 _Scrum Master, UX/UI Designer, Front-end Developer_<br/>
 _January 2022 - Present_
 
@@ -26,7 +26,7 @@ _January 2022 - Present_
 - **UX/UI Design:** Redesigned major application interfaces using Figma, enhancing user experience. Created website and application designs, ensuring usability and aesthetic appeal.
 - **Front-end Development:** Developed a microsite and internal sites using Nuxt and UnoCSS, focusing on modular, reusable components.
 
-### Catch Design, Wellington
+#### Catch Design, Wellington
 _Lead Front-end Developer, UX/UI Advocate_<br/>
 _August 2016 - March 2020_
 
@@ -34,21 +34,21 @@ _August 2016 - March 2020_
 - **Project Highlights:** Successfully managed a high-pressure project for Mercury, delivering in a compressed timeline.
 - **UX/UI Focus:** Worked closely with designers to ensure the implementation of thoughtful and user-centric designs.
 
-### Clemenger BBDO | Touchcast, Wellington
+#### Clemenger BBDO | Touchcast, Wellington
 _Front-end Developer, UX/UI Collaborator_<br/>
 _May 2016 - August 2016_
 
 - Developed a Service and Warranty tool for Toyota and a front-end for Education New Zealand’s document site.
 - Pushed for a unified approach to coding standards and design processes, enhancing the overall UX/UI quality.
 
-### Freelance, Wellington
+#### Freelance, Wellington
 _Front-end Developer, UX/UI Projects_<br/>
 _April 2016 - May 2016_
 
 - Developed several websites, focusing on intuitive user interfaces.
 - Created a personal project to explore React, emphasizing user experience and interface design.
 
-### Trade Me Ltd, Wellington
+#### Trade Me Ltd, Wellington
 _Senior Front-end Developer, Development Chapter Lead, UX/UI Designer_<br/>
 _March 2010 - April 2016_
 
@@ -58,36 +58,36 @@ _March 2010 - April 2016_
 
 ---
 
-## Technical Skills
+### Technical Skills
 
-### Web Technologies
+#### Web Technologies
 
 - Nuxt 3, HTML, CSS, SCSS, JavaScript
 - Vue, React
 
-### Front-end Methodologies
+#### Front-end Methodologies
 
 - OOCSS, ITCSS, BEM, Tailwind
 
-### Design Tools
+#### Design Tools
 
 - Figma, Sketch, Photoshop, Illustrator
 
 ---
 
-## Education
+### Education
 
-### National College of Design and Technology, Wellington
+#### National College of Design and Technology, Wellington
 _Diploma of Computer Graphic Design_
 _1999_
 
-### Tikipunga High School, Whangarei
+#### Tikipunga High School, Whangarei
 _Bursary in Design and Photography_
 _1994 - 1998_
 
 ---
 
-## Recognition
+### Recognition
 
 - Featured in .Net Magazine (Issue 208) for early adoption of OOCSS, supplementing an article by Nicole Sullivan.
 

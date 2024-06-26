@@ -11,7 +11,6 @@ export default defineNuxtConfig({
   app: {
     baseURL: "/irunatbullets/",
     head: {
-      title: "irunatbullets",
       charset: "utf-8",
       viewport: "width=device-width, initial-scale=1",
       link: [{ rel: "icon", type: "image/x-icon", href: "./favicon.ico" }],
